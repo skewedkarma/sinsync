@@ -1,0 +1,73 @@
+/*
+
+global.css
+
+Global styles for sinsync.com
+
+*/
+
+.wrap {
+	background-color: #F66EFF;
+	width: 100%;
+}
+
+.container {
+	margin-left: 15%;
+	max-width: 70%;
+	min-height: 800px;
+	position: relative;
+	top: -5px;
+}
+
+.nav {
+	border: 1px solid black;
+	min-height: 40px;
+	margin-bottom: 5px;
+	background-color: white;
+}
+
+.content {
+}
+
+.hero-unit {
+	border: 1px solid black;
+	min-height: 300px;
+	margin-bottom: 5px;
+	background-color: white;
+}
+
+.row{
+	margin-bottom: 5px;
+	background-color: white;
+}
+
+.span4-left {
+	background-color: black;
+	min-height: 200px;
+	width: 30%;
+	margin-right: 5%;
+	float: left;
+}
+
+.span4-centre {
+	background-color: black;
+	min-height: 200px;
+	width: 30%;
+	float: left;
+}
+
+.span4-right {
+	background-color: black;
+	min-height: 200px;
+	width: 30%;
+	margin-left: 5%;
+	margin-bottom: 5px;
+	float: left;
+}
+
+.footer {
+	clear: both;
+	min-height: 40px;
+	border: 1px solid black;
+	background-color: white;
+}
